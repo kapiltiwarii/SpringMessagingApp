@@ -1,10 +1,10 @@
-package com.example.UC3_SayHello;
+package com.example.UC4_SayHello;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Uc3SayHelloApplicationTests {
+class Uc4SayHelloApplicationTests {
 
 	@Test
 	void contextLoads() {
